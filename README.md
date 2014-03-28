@@ -20,8 +20,8 @@ El objetivo de esta práctica es reescribir el analizador sintáctico del lengua
 Enlaces
 --------------
 
-- Despliegue: http://arcane-retreat-5233.herokuapp.com/
-- Tests: http://arcane-retreat-5233.herokuapp.com/test
+- Despliegue: http://immense-plateau-3820.herokuapp.com/
+- Tests: http://immense-plateau-3820.herokuapp.com/test
 - Repositorio: https://github.com/alu0100693737/PracticaPL6
  
 
